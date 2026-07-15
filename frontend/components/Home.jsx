@@ -16,7 +16,7 @@ const Home = () => {
       <div className="flex justify-between items-center mb-6">
         <p className="text-2xl font-bold">Doodles</p>
 
-        <Link href="/add-doodle">
+        <Link href="/doodleform">
           <button className="px-5 py-2 bg-blue-500 text-white rounded-lg font-semibold hover:bg-blue-600">
             Add Doodle
           </button>
